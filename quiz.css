@@ -43,15 +43,31 @@ h2 {
 .option-btn:hover {
     background-color: #28a745;
     color: white;
+}
+
+#restart-btn {
+    background-color: #28a745;
+    color: white;
     border: none;
     padding: 12px 25px;
     border-radius: 8px;
     cursor: pointer;
     font-size: 16px;
+    margin-top: 20px;
 }
 
 #restart-btn:hover {
     background-color: #218838;
+}
+
+#result-image {
+    max-width: 50%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .hidden {
