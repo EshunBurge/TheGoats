@@ -1,4 +1,14 @@
 const questions = [
+   {
+    text: "Are you ready to start?",
+    options: [
+      { text: "Yes", type: "Taylor Swift" },
+      { text: "Back Home", type: "Bad Bunny" },
+    ]
+  },
+  
+]
+  [
   {
     text: "What is your favoite genre?",
     options: [
