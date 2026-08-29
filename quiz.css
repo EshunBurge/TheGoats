@@ -45,16 +45,7 @@ h2 {
     color: white;
 }
 
-#home-btn:hover {
-    background-color: D72E82;
-    color: white;
-    border: none;
-    padding: 12px 25px;
-    border-radius: 8px;
-    cursor: pointer;
-    font-size: 16px;
-    margin-top: 20px;
-}
+
 
 #restart-btn:hover {
     background-color: #FFC200;
