@@ -45,7 +45,7 @@ h2 {
     color: white;
 }
 
-#restart-btn {
+#home-btn:hover {
     background-color: D72E82;
     color: white;
     border: none;
