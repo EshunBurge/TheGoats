@@ -3,6 +3,7 @@
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 main {
+     background-image: url("iPod.jpeg");
     display: flex;
     flex-direction: column;
     align-items: center;
