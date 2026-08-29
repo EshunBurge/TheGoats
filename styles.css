@@ -7,6 +7,7 @@ main {
     flex-direction: column;
     align-items: center;
     justify-items: center;
+      background: iPod.jpeg;
 }
 
 body {
