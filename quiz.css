@@ -58,8 +58,8 @@ h2 {
     margin-top: 20px;
 }
 
-#back-btn {
-    background-color: FF7A00;
+#home-btn: hover {
+    background-color: #FFC200;
     color: white;
     border: none;
     padding: 12px 25px;
