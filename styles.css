@@ -56,31 +56,29 @@ li {
 }
 
 
-/* HOME PAGE QUIZ BUTTON */
 
 .quiz-btn {
     display: inline-block;
 
-    background-color: #e4e6eb;
-    color: #050505;
+    background-color: rgba(118, 199, 199, 0.15);
+    color: #76C7C7;
 
-    border: none;
-    padding: 15px 20px;
+    border: 2px solid #76C7C7;
+    padding: 12px 22px;
 
     font-size: 16px;
     border-radius: 8px;
 
     cursor: pointer;
-
     text-decoration: none;
 
-    text-shadow: none;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 
     transition: background-color 0.2s, transform 0.1s;
 }
 
 .quiz-btn:hover {
-    background-color: #875AFB;
+    background-color: rgba(118, 199, 199, 0.3);
     color: white;
 
     transform: translateY(-2px);
