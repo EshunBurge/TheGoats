@@ -1,6 +1,6 @@
 
 * {
-    font-family: bold;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 main {
     display: flex;
@@ -10,9 +10,13 @@ main {
 }
 
 body {
-    background-color:lightpurple;
-    color:lightpink
-}
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 
 h1 {
     font-size: 60px;
@@ -21,7 +25,6 @@ h1 {
 }
 
 h2 {
-    font-style: italic;
     font-weight: 500;
 }
 
