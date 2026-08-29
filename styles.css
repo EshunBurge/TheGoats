@@ -12,6 +12,7 @@ main {
 body {
      background-image: url("iPod.jpeg");
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     background-color: teal;
     display: flex;
     justify-content: center;
     align-items: center;
