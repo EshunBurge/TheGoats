@@ -41,12 +41,12 @@ h2 {
 }
 
 .option-btn:hover {
-    background-color: #28a745;
+    background-color: #875AFB;
     color: white;
 }
 
 #restart-btn {
-    background-color: #28a745;
+    background-color: D72E82;
     color: white;
     border: none;
     padding: 12px 25px;
@@ -57,7 +57,25 @@ h2 {
 }
 
 #restart-btn:hover {
-    background-color: #218838;
+    background-color: #FFC200;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#back-btn {
+    background-color: FF7A00;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
 }
 
 #result-image {
