@@ -16,4 +16,4 @@ Our spirit artist quiz will reveal whether you are;
 - Travis Scott
 
 
-This project was made for the Sunbeam Tampa Hackathon!
+This project was made for the Sunbeam Tampa Hackathon, where we won first place!
